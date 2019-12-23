@@ -2769,4 +2769,9 @@ ul.header-cart-ticket-option.pull-right {
     padding: 0px 0px 50px 0px;
 }
 
-
+h1.judul {
+  color: black;
+  font-family: 'Helvetica Neue Bold';
+  font-size: 24px;
+  text-align: center;
+}
